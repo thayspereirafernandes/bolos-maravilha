@@ -20,4 +20,9 @@ p {
 
 em strong {
     color: c#1100ff;
-}
+    body{
+        text-align: center;
+    }
+    #foto{
+        
+        width: 50%;
